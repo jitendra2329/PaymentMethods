@@ -44,6 +44,26 @@
 ![Screenshot from 2023-03-30 23-32-27](https://user-images.githubusercontent.com/124979608/228924711-62750c03-0730-460c-8c7a-77503a26b836.png)
 
 
+=> Suppose we selected 
+    
+    1. List all methods
+    
+ we will get following options
+ 
+ 
+![Screenshot from 2023-03-30 23-34-36](https://user-images.githubusercontent.com/124979608/228925318-a9f70f5a-4b48-402b-a9b1-871e815737b4.png)
 
+Suppose we selected 
+
+    1. See account balance
+    
+   
+   ![Screenshot from 2023-03-30 23-37-33](https://user-images.githubusercontent.com/124979608/228925811-66c62eb4-0812-4a7a-8dbe-d48a180132c8.png)
+
+
+
+=> We can do payments as well and Account balance will be decreased by an amout, which you will provide during the transacion
+
+file:///home/knoldus/Pictures/Screenshot%20from%202023-03-30%2022-34-37.png![image](https://user-images.githubusercontent.com/124979608/228926262-9ad804bc-4038-4c37-9c65-5836df5d6906.png)
 
 
